@@ -1,7 +1,9 @@
 # 非エンジニアのための開発環境構築― Git/GitHubによるソースコード管理編
-このリポジトリのURLは、[https://github.com/kwaka1208/sdm20181211](https://github.com/kwaka1208/sdm20181211)です。
+このリポジトリのURLは、[http://bit.ly/sdm20181211](http://bit.ly/sdm20181211)です。
 
 ![Git](images/GitHub-Mark-64px.png)
+
+[GitHub Desktopのダウンロードはこちらです](https://desktop.github.com/)
 
 ## GitHub
 - [GitHub](https://github.com/)
