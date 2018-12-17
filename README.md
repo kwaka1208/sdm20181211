@@ -1,6 +1,10 @@
 # 非エンジニアのための開発環境構築― Git/GitHubによるソースコード管理編
 このリポジトリのURLは、[http://bit.ly/sdm20181211](http://bit.ly/sdm20181211)です。
 
+[当日のスライド](https://speakerdeck.com/kwaka1208/githubniyorusosukotoguan-li-bian)
+
+[Git操作の段階と各段階を遷移するためのコマンドの対応](http://bit.ly/2UNFyEl)
+
 ![Git](images/GitHub-Mark-64px.png)
 
 [GitHub Desktopのダウンロードはこちらです](https://desktop.github.com/)
